@@ -1,0 +1,1 @@
+f2287d34ca12a3a19b38f186e52c7cc1c739aa70d8affa5f84449829acba9a38  /var/www/html/lab_image.jpg
